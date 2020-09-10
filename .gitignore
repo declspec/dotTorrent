@@ -1,0 +1,6 @@
+*.user
+*.log
+.vs/
+bin/
+obj/
+*.diagsession
